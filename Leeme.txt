@@ -1,0 +1,41 @@
+Proyecto de entrega para Diseño Web
+Desarrollo de Aplicaciones Web (DAW)
+
+
+
+Descripción del sitio
+
+El sitio web consiste en dos páginas web. Una primera página principal que sirve de portada del sitio web y una página Dashboard que permite cargar una lista de proyectos desde un archivo json.
+
+
+
+Composición del sitio
+
+El sitio web está compuesto por los archivos siguientes:
+•	index.html
+•	prtmanager.html
+•	prtmanager.js
+•	json_data.json
+•	json_logged.json
+
+
+
+Tecnologías y su utilización 
+
+Las tecnologías utilizadas para la creación del sitio son:
+•	HTML5 : usados para la estructura de los archivos index.html y prtmanager.html
+
+•	Bootstrap 3.3.7 : usado para la presentación  de estilos de los archivos index.html y prtmanager.html
+
+•	Jquery 3.3.1 : usado en el archivo prtmanager.js para crear el código de las funciones que cargan los datos de los archivos json_data.json y json_logged.json
+
+•	Ajax : se incluye la función $.getJSON como parte del código para obtener los datos de los archivos json_data.json y json_logged.json
+
+•	NetBeans 8.0.2 : Utilizado como IDE de desarrollo del sitio Web
+
+•	GlassFlish Server 4.1: Integrado con NetBeans es usado como servidor local de sitio web
+
+
+
+El sitio web esta disponible en el siguiente link:
+https://cjsoft.000webhostapp.com
